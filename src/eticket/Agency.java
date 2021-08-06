@@ -1,4 +1,4 @@
-package erezervareteatru;
+package eticket;
 
 import java.io.File;
 import java.util.ArrayList;

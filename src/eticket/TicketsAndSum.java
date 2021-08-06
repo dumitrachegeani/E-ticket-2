@@ -1,4 +1,4 @@
-package erezervareteatru;
+package eticket;
 
 import javax.swing.*;
 import java.awt.*;
